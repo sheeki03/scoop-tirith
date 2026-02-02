@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "URL security analysis for shell environments",
   "homepage": "https://github.com/sheeki03/tirith",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sheeki03/tirith/releases/download/v0.1.0/tirith-x86_64-pc-windows-msvc.zip",
-      "hash": "43ae8ab81e943b771678f86283780b62b37ba068107045b0aa7bb4ff05b72636"
+      "url": "https://github.com/sheeki03/tirith/releases/download/v0.1.1/tirith-x86_64-pc-windows-msvc.zip",
+      "hash": "45037551dca051457bff5ef8b59b4e442c0e88b701d36d6c958c69c3bd018e50"
     }
   },
   "bin": "tirith.exe",

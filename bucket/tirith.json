@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/sheeki03/tirith/releases/download/v0.2.8/tirith-x86_64-pc-windows-msvc.zip",
-      "hash": "0eb1d111ef4ba6d3607455cad074f9e9f3e9d86f6e9be5d0649c537ba077e005"
+      "hash": "832c93928dc60e5e42122487c8355d00be5e96705f817b1a9b483930f95dede4"
     }
   },
   "bin": "tirith.exe",
